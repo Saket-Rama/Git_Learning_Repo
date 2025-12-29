@@ -1,5 +1,6 @@
 db.sql
 passcodes.txt
 *.log
+about.html
 nodes_modules/
 !imp.log
